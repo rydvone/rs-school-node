@@ -1,0 +1,7 @@
+{
+  "error-file-open": "Fail open file",
+  "error-file-change": "Fail change file",
+  "error-path": "Fail path. Please, try again",
+  "input": "Invalid input",
+  "operation": "Operation failed"
+}
