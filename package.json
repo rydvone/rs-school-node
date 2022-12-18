@@ -1,0 +1,21 @@
+{
+  "name": "rs-school-node",
+  "version": "1.0.0",
+  "description": "file manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rydvone/rs-school-node.git"
+  },
+  "author": "rydvone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rydvone/rs-school-node/issues"
+  },
+  "homepage": "https://github.com/rydvone/rs-school-node#readme"
+}
